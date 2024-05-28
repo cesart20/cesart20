@@ -2,7 +2,7 @@
 
 
 <!--
-**Ctorres2020/Ctorres2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cesart20/cesart20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm César Torres 👋🧑‍💻</h1>
 <h3 align="center">A passionate frontend developer from Paraguay</h3>
 
-- 🔭 I’m currently working on [Portafolio](https://portafolioespanol.vercel.app/)
+- 🔭 I’m currently working on [Portafolio](https://portafolio-flax-rho.vercel.app/)
 
 - 🌱 I’m currently learning **React Native, NextJs**
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **HTML5, CSS3, JS, React, NODEJS**
 
 ```js
-const Ctorres2020 = {
+const cesart20 = {
   pronouns: "he",
   code: [Javascript, HTML, CSS],
   tools: [React, Node, Django],
