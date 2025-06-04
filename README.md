@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm César Torres 👋🧑‍💻</h1>
 <h3 align="center">A passionate frontend developer from Paraguay</h3>
 
-- 🔭 I’m currently working on [Portafolio](https://portafolio-flax-rho.vercel.app/)
+- 🔭 I’m currently working on [Portafolio](https://portafolio-dev-cesar-torres.netlify.app/)
 
 - 🌱 I’m currently learning **React Native, NextJs**
 
