@@ -27,15 +27,12 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/cesart20](https://github.com/cesart20)
 
-- 📝 I regularly write articles on [https://cesartorresdigital.com](https://cesartorresdigital.com)
-
 - 💬 Ask me about **HTML5, CSS3, JS, React, NODEJS**
 
 ```js
 const cesart20 = {
-  pronouns: "he",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Node, Django],
+  code: [Javascript, HTML, CSS, PHP, JAVA, C#],
+  tools: [React, NodeJs, Django, NextJs, .Net],
 }
 ```
 
